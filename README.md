@@ -9,3 +9,6 @@ ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites t
 ASP.NET MVC in ASP.NET 5 includes support for building web pages and HTTP services in a single aligned framework that can be hosted in IIS or self-hosted in your own process.
 
 This project is part of ASP.NET 5. You can find samples, documentation and getting started instructions for ASP.NET 5 at the [Home](https://github.com/aspnet/home) repo.
+
+Proudly supported by BrowserStack
+![alt text](https://raw.githubusercontent.com/Matthew-Bonner/Mvc/dev/Browserstack-logo.svg)
